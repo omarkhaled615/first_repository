@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecyclerView_Training</string>
+
+
+    <string name="tv_get_started_skip">a</string>
+    <string name="btn_get_started_f1">a</string>
+
+    <string name="btn_get_started_f2">a</string>
+
+    <string name="btn_get_started_googel">a</string>
+    <string name="btn_get_started_fb">a</string>
+    <string name="tv_get_started_login">a</string>
+    <string name="tv_get_started_signup">a</string>
+
+    <string name="tv_login_forgot">a</string>
+
+
+
+</resources>
